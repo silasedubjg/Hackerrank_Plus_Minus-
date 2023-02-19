@@ -1,0 +1,15 @@
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.csproj.AssemblyReference.cache
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.AssemblyInfoInputs.cache
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.AssemblyInfo.cs
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\bin\Debug\net7.0\HackerrankChallenge1.exe
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\bin\Debug\net7.0\HackerrankChallenge1.deps.json
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\bin\Debug\net7.0\HackerrankChallenge1.runtimeconfig.json
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\bin\Debug\net7.0\HackerrankChallenge1.dll
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\bin\Debug\net7.0\HackerrankChallenge1.pdb
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.dll
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\refint\HackerrankChallenge1.dll
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.pdb
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\HackerrankChallenge1.genruntimeconfig.cache
+C:\Users\silas\OneDrive\Área de Trabalho\HackerrankChallenge1\obj\Debug\net7.0\ref\HackerrankChallenge1.dll
